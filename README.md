@@ -6,7 +6,7 @@ Workshop materials · October 14, 2026 · Inna Kouper, Digital Scholarship and D
 
 ## Getting started
 
-You need a Google account (a personal Gmail works) and a web browser. Nothing to install, nothing to upload.
+You need a Google account (a personal Gmail works) and a web browser.
 
 ### Before the workshop (5 minutes)
 
